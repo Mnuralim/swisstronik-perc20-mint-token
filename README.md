@@ -1,4 +1,4 @@
-# Swisstronik Tesnet Techinal Task 3 (Mint a ERC-721 Token)
+# Swisstronik Tesnet Techinal Task 4 (Mint a PERC20 Token)
 
 link : [Click!](https://www.swisstronik.com/testnet2/dashboard)
 
